@@ -1,0 +1,32 @@
+# Scraping Data
+playwright
+jmespath
+scrapfly-sdk
+pandas
+
+# Ver 2
+attrs
+certifi
+cffi
+charset-normalizer
+h11
+idna
+outcome
+packaging
+pycparser
+PySocks
+python-dotenv
+requests
+selenium
+setuptools
+sniffio
+sortedcontainers
+trio
+trio-websockets
+typing_extensions
+undetected-chromedriver
+urllib3
+webdriver-manager
+websocket-client
+websockets
+wsproto
